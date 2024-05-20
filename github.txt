@@ -1,2 +1,3 @@
 Github'tan gelen bilgi.
 data-1
+data-2
